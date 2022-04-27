@@ -1,0 +1,18 @@
+{
+    "email" : "midhat10@yahoo.com",
+    "firstname" : "midhat",
+    "lastname" : "rosull",
+    "password" : "P@ssword123",
+    "date" : "12",
+    "month" : "December",
+    "year" : "1990",
+    "company" : "my new company",
+    "address" : "temp address with temp city",
+    "city" : "San Fransisco",
+    "state" : "California",
+    "postalcode": "00000",
+    "country" : "United States",
+    "mobile" : "+12325544258",
+    "homephone" : "+12325544258",
+    "alias" : "home address, alias"
+}
